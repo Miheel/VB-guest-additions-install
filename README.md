@@ -15,8 +15,11 @@ by default it should be located at `C:\Program Files\Oracle\VirtualBox`,
 if VBox is installed in another directory find `<path/to/dir/>`
 
 Open CMD and cd to to that location
+
 ```$ cd C:\Program Files\Oracle\VirtualBox```
+
 or
+
 ```$ cd <path/to/dir/>```
 
 When you are there execute the following command to add a custom resolution 
