@@ -70,4 +70,4 @@ VBoxClient can only be called with one flag at a time, as a shortcut to launch a
 
 `$ VBoxClient-all`
 
-For more information visit the Arch Wiki at(https://wiki.archlinux.org/index.php/VirtualBox#Installation_steps_for_Arch_Linux_guests)
+For more information visit the Arch Wiki at (https://wiki.archlinux.org/index.php/VirtualBox#Installation_steps_for_Arch_Linux_guests)
