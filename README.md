@@ -28,7 +28,7 @@ or
 
 When you are there execute the following command to add a custom resolution 
 
-```$ VBoxManage setaxtradata "Arch" "customevideomode" "1080x1920x24"```
+```$ VBoxManage setaxtradata "Arch" "customevideomode" "1920x1080x24"```
 
 `Arch` is the name of your Virtual machine
 
@@ -40,7 +40,7 @@ reboot the Virtual machine and press "e" when the menu shows, locate the line
 
 ```linux /boot/vmlinuz-linux root=UUID=978e3e81-8048-4ae1-8a06-aa727458e8ff quiet splash```
 
-At the end add your desired resolution video=1080x1920
+At the end add your desired resolution `video=1920x1080`
 
 To make the changes persist after reboot
 Edit the file `/etc/default/grub` on the line
